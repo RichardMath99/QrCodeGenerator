@@ -7,6 +7,19 @@
 
 ---
 
+## 🔗 Sobre o projeto
+
+Este projeto permite **gerar QR Codes a partir de links** enviados para a API. Ao enviar uma URL, a aplicação cria um QR Code correspondente, que pode ser baixado ou armazenado na **AWS S3** para acesso público.
+
+Você pode ver um exemplo de QR Code gerado pelo projeto:
+
+![QR Code Exemplo](https://qrcode-storager-rich.s3.us-east-1.amazonaws.com/9800a58f-45ae-4402-b5ec-f05004ebeaf7)
+
+---
+
+Se você quiser, posso te enviar **uma versão completa do README já integrada com essa seção**, deixando ele mais claro e profissional. Quer que eu faça isso?
+
+
 ## ⚙️ Tecnologias utilizadas
 
 * **Java 21**
